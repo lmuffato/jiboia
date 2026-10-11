@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "jiboia"
-version = "0.1.0"
+version = "1.0.0"
 description = "jiboia is a python package for automatically normalizing DataFrames and optimizing types efficiently."
 authors = [
     { name="Lucas Muffato", email="lucasmuffato.eng@gmail.com" }
